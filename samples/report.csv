@@ -1,0 +1,7 @@
+department,month,revenue,cost
+sales,2026-01,12000,4500
+sales,2026-02,13200,4800
+support,2026-01,6400,3100
+support,2026-02,7100,3300
+engineering,2026-01,15000,9000
+engineering,2026-02,15850,9400
